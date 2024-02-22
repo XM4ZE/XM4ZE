@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://raw.githubusercontent.com/XM4ZE/DATABASE/master/image/Arlecchino-Genshin-Impact.gif" width="100" height="100"/>
+  <img src="https://raw.githubusercontent.com/XM4ZE/DATABASE/master/image/c27d8c58c83b3e0c796fb726d99f3f65_4787897109560234085%20(2).gif" width="200" height="200"/>
 </div>
 <div id="badges" align="center">
     <a href="https://instagram.com/maximusstore.id">
