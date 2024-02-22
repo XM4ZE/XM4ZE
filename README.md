@@ -1,6 +1,4 @@
-<img align="right" height="300px" width= "320px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
 
-</p>
 ### Hey 👋, I'm [X M 4 Z E](https://github.com/XM4ZE)
 
 <a href="https://wa.me/6281283516246">
@@ -11,9 +9,17 @@
 </a>
 <a href="https://www.instagram.com/maximusstore.id/">
   <img align="left" alt="XM4ZE Instagram" width="100px" src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=black" />
-</p>
 
--------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------
+
+
+
+
+</samp>
+
+
+<img align="right" height="300px" width= "320px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif"/>
+
 
 ### 😃 Tentang saya
 
