@@ -10,15 +10,20 @@
   <img align="left" alt="XM4ZE Instagram" width="100px" src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=black" />
 </a>
 
------
 
-## 😃 Talk to me about!!
 
-<img align="right" height="520px" width= "550px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
 
-- Front-end development using **Javascript**
-- Backend development using **Node Js**
-- Im still in the learning period
+
+<img align="right" height="300px" width= "320px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
+
+### 😃 Tentang saya
+
+- Saya Maximus 
+- Saya hanya paham **JavaScript, C++**
+- Keseharian saya **Tidur, Kerja & Bermain Game**
+- Saya masih belajar
+- Saya Keturunan China
+- Mau donasi ke sini saja [QRIS](https://telegra.ph/file/960c11c865c67dd142c70.jpg)
 
 ![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XM4ZE)
 
