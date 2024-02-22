@@ -8,10 +8,9 @@
 </a>
 <a href="https://www.instagram.com/maximusstore.id/">
   <img align="left" alt="XM4ZE Instagram" width="100px" src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=black" />
-</a>
 
 
-<img align="right" height="250px" width= "270px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
+<img align="right" height="300px" width= "320px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
