@@ -11,7 +11,7 @@
 </a>
 
 
-<img align="right" height="280px" width= "300px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
+<img align="right" height="250px" width= "270px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
