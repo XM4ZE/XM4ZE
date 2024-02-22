@@ -10,6 +10,8 @@
   <img align="left" alt="XM4ZE Instagram" width="100px" src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=black" />
 </a>
 
+-----
+
 ## 😃 Talk to me about!!
 
 <img align="right" height="520px" width= "550px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
@@ -21,4 +23,3 @@
 ![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XM4ZE)
 
 -----
-Credits: [X M 4 Z E](https://github.com/XM4ZE)
