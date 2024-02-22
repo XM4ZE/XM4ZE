@@ -10,10 +10,9 @@
   <img align="left" alt="XM4ZE Instagram" width="22px" src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=black" />
 </a>
 
-<img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/><br />
-
-
 ## 😃 Talk to me about!!
+
+<img align="right" height="300px" width= "320px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
 
 - Front-end development using **Javascript**
 - Backend development using **Node Js**
