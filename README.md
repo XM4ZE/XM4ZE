@@ -11,17 +11,17 @@
 </a>
 
 
-<img align="right" height="300px" width= "320px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
+<img align="right" height="280px" width= "300px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 😃 Tentang saya
 
-- Saya Maximus 
-- Saya hanya paham **JavaScript, C++**
+- Saya Maximus **XM4ZE**
+- Saya hanya paham **JavaScript & Python**
 - Keseharian saya **Tidur, Kerja & Bermain Game**
 - Saya masih belajar
-- Saya Keturunan China
+- Saya Keturunan China (cindo)
 - Mau donasi ke sini saja [QRIS](https://telegra.ph/file/960c11c865c67dd142c70.jpg)
 
 ![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XM4ZE)
