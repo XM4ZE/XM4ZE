@@ -26,6 +26,7 @@
 - Keseharian saya **Tidur, Kerja & Bermain Game**
 - Saya masih belajar
 - Saya Keturunan China (cindo)
+- Join Group Bot saya [Whatsapp Group](https://chat.whatsapp.com/FJRtTzRKxP8A2wT6fcCW3s)
 - Mau donasi ke sini saja [QRIS](https://telegra.ph/file/960c11c865c67dd142c70.jpg)
 <div>
     <h2 align="center">Languages and Tools</h2>
