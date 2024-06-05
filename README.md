@@ -10,6 +10,9 @@
     </a>
     <a href="https://t.me/maximusstoreindonesia">
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/><br />
+    </a>
+    <a href="https://whatsapp.com/channel/0029VaL28ZqFSAtCdSU5EX0M">
+      <img src="https://img.shields.io/badge/Whatsapp%20channel-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/><br />
   </div>
   <h1>
     Hello, I'm XM4ZE
