@@ -31,7 +31,7 @@
 - Join my Bot Group [Click here](https://chat.whatsapp.com/FJRtTzRKxP8A2wT6fcCW3s)
 - Just want to donate here [Click here](https://telegra.ph/file/960c11c865c67dd142c70.jpg) **DANA, SPAY, OVO, GOPAY, TNG, ETC**
 <div>
-    <h2 align="center">Languages and Tools</h2>
+    <h2 align="center">I Use</h2>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
