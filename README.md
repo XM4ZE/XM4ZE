@@ -8,7 +8,7 @@
     <a href="https://wa.me/6281283516246">
       <img src="https://img.shields.io/badge/Whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/><br />
     </a>
-    <a href="https://t.me/maximusstoreindonesia">
+    <a href="https://t.me/xm4ze">
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/><br />
     </a>
     <a href="https://whatsapp.com/channel/0029VaL28ZqFSAtCdSU5EX0M">
