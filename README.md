@@ -41,7 +41,3 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
   </div>
 
-  ---
-
-### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com/?user=XM4ZE)](https://git.io/streak-stats)
