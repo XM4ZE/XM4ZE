@@ -28,7 +28,7 @@
 - I'm Maximus **XM4ZE**
 - My Daily Life **Sleep, Working and Playing Games**
 - The anime I like is **BERSERK**
-- Join my Bot Group [Click here](https://chat.whatsapp.com/FJRtTzRKxP8A2wT6fcCW3s)
+- Join my Bot Group [Click here](https://chat.whatsapp.com/B8cELUFmR7mLdF7wxP8EsA)
 - Just want to donate here [Click here](https://telegra.ph/file/960c11c865c67dd142c70.jpg) **DANA, SPAY, OVO, GOPAY, TNG, ETC**
 <div>
     <h2 align="center">I Use</h2>
