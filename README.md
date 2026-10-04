@@ -18,7 +18,7 @@
 </div>
 
 <h1 align="center">
-  Hello, I'm Maximus (XM4ZE) 
+  Hello, I'm XM4ZE 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -34,19 +34,19 @@
 
 ### :man_technologist: About Me
 
-Welcome to my digital forge! I am the mastermind behind **Xtreme Matrix**, an infrastructure and development hub dedicated to pushing the boundaries of server performance and clean code.
+Welcome to my digital forge! I am **XM4ZE**, the mastermind behind **Xtreme Matrix**, an infrastructure and development company dedicated to pushing the boundaries of server performance and clean code.
 
 - ⚔️ **My Philosophy:** *Relentless forward momentum.* Just like Guts from **BERSERK**, I tackle bugs, build systems, and conquer challenges head-on.
 - 🦇 **Daily Routine:** Code, Sleep, Game, Repeat.
-- 🚀 **Currently Building:** High-performance infrastructure and automated bots.
+- 🚀 **Currently Building:** High-performance infrastructure and automated bots under the Xtreme Matrix banner.
 - 🤖 **Community:** Let's connect and discuss tech! Join my Bot Group [**Right Here**](https://chat.whatsapp.com/B8cELUFmR7mLdF7wxP8EsA).
 - ☕ **Support My Work:** If my APIs or panels have helped you, consider supporting me [**Here**](https://telegra.ph/file/960c11c865c67dd142c70.jpg) *(Accepting DANA, SPAY, OVO, GOPAY, TNG, ETC)*.
 
 ---
 
-### 🔥 Featured Projects by Xtreme Matrix
+### 🔥 Xtreme Matrix Projects
 
-Here are some of the flagship projects operating under the **Xtreme Matrix** ecosystem, built for speed, stability, and scalability:
+Here are some of the flagship projects operating under my company's ecosystem, built for speed, stability, and scalability:
 
 - 🌌 **[XMPanels Pterodactyl Hosting](https://www.xmpanels.de)**  
   *Your ultimate server control.* A robust, high-performance game and web hosting infrastructure built on top of Pterodactyl. Engineered for maximum uptime and extreme server-side capabilities. 
